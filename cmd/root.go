@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/bradleyfalzon/ghinstallation/v2"
-	github "github.com/shurcool/githubv4"
+	github "github.com/shurcooL/githubv4"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v3"
 )

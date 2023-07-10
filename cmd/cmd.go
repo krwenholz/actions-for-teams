@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	github "github.com/shurcool/githubv4"
+	github "github.com/shurcooL/githubv4"
 )
 
 type Issue struct {
